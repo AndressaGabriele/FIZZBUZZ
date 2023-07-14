@@ -1,4 +1,4 @@
-FUZZBUZZ SIMPLES ALGORITMO
+FIZZBUZZ SIMPLES ALGORITMO
 
 - [x] Usuario input um numero
 - [x] se numero for divisivel por 3 E 5, printar FizzBuzz
